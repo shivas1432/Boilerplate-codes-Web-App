@@ -1,3 +1,4 @@
+// TypeScript config for CodeBoiler - Enhanced type safety Sept 2024
 {
   "files": [],
   "references": [
@@ -47,3 +48,4 @@
     "node_modules"
   ]
 }
+

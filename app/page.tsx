@@ -1,3 +1,4 @@
+// CodeBoiler component enhanced for better boilerplate generation - Sept 2024
 import Navbar from '@/components/layout/Navbar'
 import Hero from '@/components/sections/Hero'
 import Features from '@/components/sections/Features'

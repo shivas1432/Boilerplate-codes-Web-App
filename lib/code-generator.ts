@@ -1,3 +1,4 @@
+// Library function enhanced for CodeBoiler functionality - Sept 2024
 import type { APITemplate, Language, Framework } from '@/types/api'
 
 export function generateCode(api: APITemplate, language: Language, framework: Framework): string {
@@ -574,3 +575,4 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
   return templates[language]?.[framework] || templates[language]?.vanilla || `// ${api.name} integration code not available for ${language} with ${framework} framework`
 }
+

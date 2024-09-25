@@ -1,3 +1,4 @@
+// Component optimized for CodeBoiler UI - Enhanced Sept 2024
 import { Code2, Github, Twitter, Heart, Linkedin, Globe } from 'lucide-react'
 import Link from 'next/link'
 

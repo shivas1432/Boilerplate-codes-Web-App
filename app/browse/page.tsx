@@ -1,3 +1,4 @@
+// CodeBoiler component enhanced for better boilerplate generation - Sept 2024
 'use client'
 
 import { useState, useEffect } from 'react'

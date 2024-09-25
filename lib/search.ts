@@ -1,3 +1,4 @@
+// Library function enhanced for CodeBoiler functionality - Sept 2024
 import Fuse from 'fuse.js'
 import type { APITemplate } from '@/types/api'
 

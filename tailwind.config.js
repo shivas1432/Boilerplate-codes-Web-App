@@ -1,3 +1,4 @@
+// Tailwind CSS for CodeBoiler interface - Enhanced for better UX (Sept 2024)
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

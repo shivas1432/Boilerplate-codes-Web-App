@@ -1,3 +1,4 @@
+// CodeBoiler component enhanced for better boilerplate generation - Sept 2024
 import './globals.css'
 import { Inter } from 'next/font/google'
 

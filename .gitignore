@@ -23,3 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Additional development files - Updated Sept 2024
+*.tmp
+*.temp
+.vscode/settings.json
+.idea/workspace.xml
+coverage/
+*.log.*

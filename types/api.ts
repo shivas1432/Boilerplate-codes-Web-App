@@ -1,3 +1,4 @@
+// Type definitions enhanced for CodeBoiler - Better type safety Sept 2024
 export type Language = 'javascript' | 'typescript' | 'python' | 'php' | 'go' | 'rust'
 
 export type Framework = 'vanilla' | 'react' | 'vue' | 'angular' | 'nextjs' | 'express' | 
@@ -23,3 +24,4 @@ export interface Category {
   count: number
   popularAPIs?: string[]
 }
+

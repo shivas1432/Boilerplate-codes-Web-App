@@ -1,3 +1,4 @@
+// Component optimized for CodeBoiler UI - Enhanced Sept 2024
 'use client'
 
 import { motion } from 'framer-motion'

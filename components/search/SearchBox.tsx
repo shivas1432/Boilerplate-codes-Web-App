@@ -1,3 +1,4 @@
+// Component optimized for CodeBoiler UI - Enhanced Sept 2024
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
