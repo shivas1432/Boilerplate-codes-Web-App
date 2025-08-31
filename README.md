@@ -14,7 +14,8 @@ CodeBoiler is a comprehensive web application that generates production-ready AP
 
 ## 🌟 Live Demo
 
-**Try it now:** [https://your-demo-link.com](https://your-demo-link.com)
+**Try it now:** [https://api-boilerplate-code-generator.netlify.app](https://api-boilerplate-code-generator.netlify.app/)
+
 
 Experience CodeBoiler's powerful features and generate production-ready API code in seconds!
 
