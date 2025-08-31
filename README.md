@@ -2,14 +2,47 @@
 
 🚀 **Production-Ready API Integration Templates**
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-brightgreen.svg)](https://github.com/shivashanker1432/codeboiler)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-brightgreen.svg)](https://github.com/shivas1432/Boilerplate-codes-Web-App)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green.svg)](https://your-demo-link.com)
 
 > **🤝 Open Source Contributions Welcome!**  
 > We're actively seeking contributors to help expand our collection of API boilerplate codes. Whether you're a beginner or expert developer, your contributions to add new API templates, improve existing code, or enhance documentation are highly valued. Join our growing community of developers! 
 
 CodeBoiler is a comprehensive web application that generates production-ready API integration code for 150+ services across 12 categories. Built with Next.js, TypeScript, and Tailwind CSS.
+
+## 🌟 Live Demo
+
+**Try it now:** [https://your-demo-link.com](https://your-demo-link.com)
+
+Experience CodeBoiler's powerful features and generate production-ready API code in seconds!
+
+## 📱 Demo Screenshots
+
+<div align="center">
+
+### 🏠 **Homepage - Matte Black Theme**
+![Homepage Screenshot](demo/1.png)
+*Modern dark interface with smooth animations and search functionality*
+
+### 📚 **API Browser**
+![API Browser Screenshot](demo/2.png) 
+*Browse 150+ APIs across 12 categories with advanced filtering*
+
+### 💻 **Code Generation**
+![Code Generation Screenshot](demo/3.png)
+*Real-time code generation with Monaco Editor and syntax highlighting*
+
+### 📊 **API Categories** 
+![Categories Screenshot](demo/4.png)
+*Organized API categories with popular templates highlighted*
+
+### ⚡ **Features Overview**
+![Features Screenshot](demo/5.png)
+*Comprehensive feature set for modern API integration*
+
+</div>
 
 ## ✨ Features
 
