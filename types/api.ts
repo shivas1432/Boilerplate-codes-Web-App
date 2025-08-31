@@ -13,7 +13,7 @@ export interface APITemplate {
   features: string[]
   popularity?: number
   documentation?: string
-  codeTemplates: Record<Language, Record<Framework, string>>
+  codeTemplates: Partial<Record<Language, Partial<Record<Framework, string>>>>
 }
 
 export interface Category {
