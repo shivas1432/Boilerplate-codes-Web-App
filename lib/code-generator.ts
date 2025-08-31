@@ -279,8 +279,8 @@ import json
 
 class ${api.name}Service:
     def __init__(self):
-        self.api_key = getattr(settings, '${api.name.upper()}_API_KEY', '')
-        self.base_url = getattr(settings, '${api.name.upper()}_BASE_URL', 'https://api.${api.name.toLowerCase()}.com')
+        self.api_key = getattr(settings, '${api.name.toUpperCase()}_API_KEY', '')
+        self.base_url = getattr(settings, '${api.name.toUpperCase()}_BASE_URL', 'https://api.${api.name.toLowerCase()}.com')
     
     def _make_request(self, endpoint, method='GET', data=None):
         headers = {
@@ -316,7 +316,7 @@ def get_${api.name.toLowerCase()}_data(request):
         return JsonResponse({'success': False, 'error': str(e)}, status=500)
 
 # Add to settings.py:
-# ${api.name.upper()}_API_KEY = 'your_api_key_here'`
+# ${api.name.toUpperCase()}_API_KEY = 'your_api_key_here'`
     },
     php: {
       vanilla: `<?php
